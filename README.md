@@ -1,2 +1,2 @@
 # Gaming-Arcade
-It's a gaming arcade consisting of three games, homepage and many more, made in tkinter(Python). 
+It's a gaming arcade. It consists of 3 games: Guessing Game, Color Game and Tic Tac Toe. It's made in tkinter(A module of python). 
